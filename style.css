@@ -1,0 +1,15 @@
+h1{
+    background-color: blueviolet;
+    text-align: center;
+    text-shadow: 10px,10px,20px,brown;
+    text-decoration: dotted;
+}
+p{
+    color: brown;
+    text-align: center;
+    text-transform: capitalize;
+    text-size-adjust: 30px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    text-indent: 30px;
+}
